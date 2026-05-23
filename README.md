@@ -1,7 +1,7 @@
 
 ---
 
-# README 2 — MedAI Clinical Decision System
+# MedAI Clinical Decision System
 
 ```md
 # MedAI Clinical Decision System
